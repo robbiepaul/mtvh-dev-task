@@ -1,0 +1,17 @@
+SUBMITTED_TIME,PROPERTY_REFERENCE,FULL_NAME,CURRENT_ADDRESS,PHONE_NUMBER,EMAIL_ADDRESS,RESPONSIBLE_PERSON,DATE_OF_BIRTH
+2024-03-01 20:15:01,NOT991,John Smith,123 Main St,01632 960082,john.smith@example.com,1,20/11/1985
+2024-03-01 20:15:01,NOT991,Sarah Smith,123 Main St,01632 960082,sarah.smith@example.com,1,09/08/1988
+2024-03-01 20:15:01,NOT991,Isaiah Smith,123 Main St,,,0,16/01/2020
+2024-03-01 16:45:27,DEF456,Jane Doe,456 Elm St,01775857337,jane.doe@example.com,1,01/06/1990
+2024-03-01 16:45:27,DEF456,Teddy Doe,456 Elm St,,,0,11/06/2015
+2024-03-01 16:45:27,DEF456,Kevin Doe,456 Elm St,,,0,19/09/2018
+2024-03-01 10:30:54,GHI789,Alice Johnson,789 Oak St,01482 490011,alice.johnson@example.com,1,1st Feb 1960
+2024-03-01 09:20:12,JKL012,Bob Bryan Brown,101 Pine St,01524 805665,bob.brown@example.com,1,21/12/1970
+2024-03-01 08:10:36,MNO345,Emily Wilson,246 Cedar St,0118 934 5332,emily.wilson@example.com,1,12/03/1980
+2024-03-01 14:55:42,PQR678,Michael Anthony Lee,369 Maple St,01494 253753,michael.lee@example.com,1,15/04/1990
+2024-03-01 03:40:18,STU901,Sarah Miller,753 Birch St,01922 473755,sarah.miller@example.com,1,25/05/2000
+2024-03-01 22:05:23,VWX234,David Johnson,852 Walnut St,01`2119001p,david.johnson@example.com,1,30/06/2005
+2024-03-01 18:25:09,YZA567,Robert Jones,963 Cherry St,01308 350206,robert.jones@example.com,1,10/07/1995
+2024-03-01 18:25:09,YZA567,Rebecca Jones,963 Cherry St,01308 350206,,1,17/05/1995
+2024-03-01 18:25:09,YZA567,Poppy Jones,963 Cherry St,,,0,10/07/2023
+2024-03-01 11:35:46,BCD890,Karen Wilson,357 Sycamore St,01443 853496,karen.wilson@example.com,1,20/08/1986
