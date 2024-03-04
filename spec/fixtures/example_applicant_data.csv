@@ -6,7 +6,7 @@ SUBMITTED_TIME,PROPERTY_REFERENCE,FULL_NAME,CURRENT_ADDRESS,PHONE_NUMBER,EMAIL_A
 2024-03-01 16:45:27,DEF456,Teddy Doe,456 Elm St,,,0,11/06/2015
 2024-03-01 16:45:27,DEF456,Kevin Doe,456 Elm St,,,0,19/09/2018
 2024-03-01 10:30:54,GHI789,Alice Johnson,789 Oak St,01482 490011,alice.johnson@example.com,1,1st Feb 1960
-2024-03-01 09:20:12,JKL012,Bob Bryan Brown,101 Pine St,01524 805665,bob.brown@example.com,1,21/12/1970
+2024-03-01 09:20:12,JKL012,Bob Bryan Brown,101 Pine St, 01524 805665,bob.brown@example.com,1,21/12/1970
 2024-03-01 08:10:36,MNO345,Emily Wilson,246 Cedar St,0118 934 5332,emily.wilson@example.com,1,12/03/1980
 2024-03-01 14:55:42,PQR678,Michael Anthony Lee,369 Maple St,01494 253753,michael.lee@example.com,1,15/04/1990
 2024-03-01 03:40:18,STU901,Sarah Miller,753 Birch St,01922 473755,sarah.miller@example.com,1,25/05/2000
