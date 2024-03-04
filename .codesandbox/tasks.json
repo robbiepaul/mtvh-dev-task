@@ -14,7 +14,7 @@
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
   "tasks": {
     "e": {
-      "name": "e",
+      "name": "Run server",
       "command": "bundle exec rails s",
       "runAtStart": true
     }
