@@ -1,0 +1,22 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [
+    {
+      "name": "Install Dependencies",
+      "command": "gem install bundler && bundle install"
+    },
+    {
+      "name": "Setup database",
+      "command": "bundle exec rails db:setup"
+    }
+  ],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "e": {
+      "name": "e",
+      "command": "bundle exec rails s",
+      "runAtStart": true
+    }
+  }
+}
