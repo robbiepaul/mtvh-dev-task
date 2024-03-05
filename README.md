@@ -59,3 +59,5 @@ So that **I can take action**
 - There is an example CSV file in the `spec/fixtures` directory
 - The CSV file could have a large number of rows
 - There is a list of valid properties in the `spec/fixtures`
+- If you want to call the endpoint add the CodeSandbox host to the allowed
+  hosts in `config/environments/development.rb`
