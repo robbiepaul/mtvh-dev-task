@@ -1,0 +1,31 @@
+nottingham:
+  property_ref: NOT991
+  address: 1A Nottingham Road
+derby:
+  property_ref: DEF456
+  address: 22 Derby Road
+gillingham:
+  property_ref: GHI789
+  address: 9 Gillingham Road
+london:
+  property_ref: JKL012
+  address: 3 London Road
+manchester:
+  property_ref: MNO345
+  address: 4 High Street
+portsmouth:
+  property_ref: PQR678
+  address: 5 Sea View Road
+verwood:
+  property_ref: VWX234
+  address: 6 Verwood Road
+yarmouth:
+  property_ref: YZA567
+  address: 7 Yarmouth Road
+barnsley:
+  property_ref: BCD890
+  address: 18 Yorkshire Place
+staines:
+  property_ref: STU901
+  address: 90 Bath Road
+
