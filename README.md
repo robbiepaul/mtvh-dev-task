@@ -42,7 +42,7 @@ So that **I can take action**
 - A valid payload will look like this:
   ```json
   {
-    "url": "http://en.third-party-forms.com/mtvh/2024/03/04/applicants.csv",
+    "url": "https://raw.githubusercontent.com/robbiepaul/mtvh-dev-task/refs/heads/main/spec/fixtures/example_applicant_data.csv",
     "batch_id": "6134-5678-9101",
     "timestamp": "2024-03-04T12:00:00Z"
   }
