@@ -54,10 +54,16 @@ So that **I can take action**
   - CURRENT_ADDRESS
   - PHONE_NUMBER
   - EMAIL_ADDRESS
-  - RESPONSIBLE_PERSON
+  - IS_DEPENDANT
   - DATE_OF_BIRTH
+- The columns on the applicant table are:
+  - first_name
+  - last_name
+  - email
+  - phone
+  - number_of_dependants
 - There is an example CSV file in the `spec/fixtures` directory
 - The CSV file could have a large number of rows
-- There is a list of valid properties in the `spec/fixtures`
+- There is a list of valid properties in the `spec/fixtures`, these will be loaded in the seeds
 - If you want to call the endpoint add the CodeSandbox host to the allowed
   hosts in `config/environments/development.rb`

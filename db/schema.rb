@@ -17,7 +17,7 @@ ActiveRecord::Schema[7.1].define(version: 2024_03_04_204629) do
     t.string "email"
     t.string "phone"
     t.string "status", default: "pending"
-    t.integer "dependants", default: 0
+    t.integer "number_of_dependants", default: 0
     t.integer "property_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
